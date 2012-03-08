@@ -1,4 +1,4 @@
 <?php
 	//comentario
-	echo "holamundo";
+	echo "hola mundo";
 ?>
