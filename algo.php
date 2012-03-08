@@ -1,3 +1,4 @@
 <?php
+	//comentario
 	echo "holamundo";
 ?>
